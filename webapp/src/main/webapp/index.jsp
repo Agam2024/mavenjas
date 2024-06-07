@@ -1,10 +1,10 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Project deployment at VINLINUXTUTORS jaspreet</h1>
-    <p>Please fill in this form to create an account at vinlinuxtutors.</p>
+    <p>Please fill in this form to create an account at vinlinuxtutors jas.</p>
     <hr>
      
-    <label for="Name"><b>Please Enter Name </b></label>
+    <label for="Name"><b>Please Enter your jas Name </b></label>
     <input type="text" placeholder="Enter your Full Name" name="Name" id="Name" required>
     <br>
     
