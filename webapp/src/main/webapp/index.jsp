@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Project deployment at VINLINUXTUTORS <b>Agam</b></h1>
-    <p>Please fill in this form to create an account at vinlinuxtutors jas.</p>
+    <h1>Project deployment at VINLINUXTUTORS <b>Samar</b></h1>
+    <p><b>Please fill in this form to create an account at vinlinuxtutors jas AGAM.</b></p>
     <hr>
      
     <label for="Name"><b>Please Enter your jas Name </b></label>
